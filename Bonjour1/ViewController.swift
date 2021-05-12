@@ -11,16 +11,21 @@ class ViewController: NSViewController {
 
 	override func viewDidLoad() {
 		super.viewDidLoad()
-
-		// Do any additional setup after loading the view.
+		browser.browse()
 	}
-
+	
 	override var representedObject: Any? {
 		didSet {
 		// Update the view, if already loaded.
 		}
 	}
 
+	let browser = Browser()
+}
 
+extension ViewController: BrowserDelegate {
+	func needsUpdate() {
+		view.needsDisplay = true
+	}
 }
 

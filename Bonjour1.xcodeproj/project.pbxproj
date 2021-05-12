@@ -11,6 +11,9 @@
 		E4456E33264C0D2200712D39 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4456E32264C0D2200712D39 /* ViewController.swift */; };
 		E4456E35264C0D2300712D39 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4456E34264C0D2300712D39 /* Assets.xcassets */; };
 		E4456E38264C0D2300712D39 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4456E36264C0D2300712D39 /* Main.storyboard */; };
+		E4456E41264C1B5A00712D39 /* Browser.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4456E40264C1B5A00712D39 /* Browser.swift */; };
+		E4456E45264C267600712D39 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = E4456E44264C267600712D39 /* LICENSE.txt */; };
+		E4456E47264C268900712D39 /* Notes.txt in Resources */ = {isa = PBXBuildFile; fileRef = E4456E46264C268900712D39 /* Notes.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +24,9 @@
 		E4456E37264C0D2300712D39 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E4456E39264C0D2300712D39 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E4456E3A264C0D2300712D39 /* Bonjour1.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Bonjour1.entitlements; sourceTree = "<group>"; };
+		E4456E40264C1B5A00712D39 /* Browser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Browser.swift; sourceTree = "<group>"; };
+		E4456E44264C267600712D39 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		E4456E46264C268900712D39 /* Notes.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = Notes.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +43,8 @@
 		E4456E24264C0D2200712D39 = {
 			isa = PBXGroup;
 			children = (
+				E4456E46264C268900712D39 /* Notes.txt */,
+				E4456E42264C266400712D39 /* Apple */,
 				E4456E2F264C0D2200712D39 /* Bonjour1 */,
 				E4456E2E264C0D2200712D39 /* Products */,
 			);
@@ -55,12 +63,29 @@
 			children = (
 				E4456E30264C0D2200712D39 /* AppDelegate.swift */,
 				E4456E32264C0D2200712D39 /* ViewController.swift */,
+				E4456E40264C1B5A00712D39 /* Browser.swift */,
 				E4456E34264C0D2300712D39 /* Assets.xcassets */,
 				E4456E36264C0D2300712D39 /* Main.storyboard */,
 				E4456E39264C0D2300712D39 /* Info.plist */,
 				E4456E3A264C0D2300712D39 /* Bonjour1.entitlements */,
 			);
 			path = Bonjour1;
+			sourceTree = "<group>";
+		};
+		E4456E42264C266400712D39 /* Apple */ = {
+			isa = PBXGroup;
+			children = (
+				E4456E43264C267600712D39 /* LICENSE */,
+			);
+			path = Apple;
+			sourceTree = "<group>";
+		};
+		E4456E43264C267600712D39 /* LICENSE */ = {
+			isa = PBXGroup;
+			children = (
+				E4456E44264C267600712D39 /* LICENSE.txt */,
+			);
+			path = LICENSE;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -120,6 +145,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4456E47264C268900712D39 /* Notes.txt in Resources */,
+				E4456E45264C267600712D39 /* LICENSE.txt in Resources */,
 				E4456E35264C0D2300712D39 /* Assets.xcassets in Resources */,
 				E4456E38264C0D2300712D39 /* Main.storyboard in Resources */,
 			);
@@ -134,6 +161,7 @@
 			files = (
 				E4456E33264C0D2200712D39 /* ViewController.swift in Sources */,
 				E4456E31264C0D2200712D39 /* AppDelegate.swift in Sources */,
+				E4456E41264C1B5A00712D39 /* Browser.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -5,7 +5,36 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>5B9F8158-D32E-4B14-8A99-2824CA172483</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>5B9F8158-D32E-4B14-8A99-2824CA172483.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>Bonjour1-gwtcyhwcdmuqqigmphqwbumviuzd</string>
+			<key>timeStartedRecording</key>
+			<real>642525979.88778806</real>
+			<key>timeStoppedRecording</key>
+			<real>642525982.12399995</real>
+			<key>title</key>
+			<string>Build target Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>5B9F8158-D32E-4B14-8A99-2824CA172483</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>

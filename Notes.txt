@@ -1,0 +1,6 @@
+
+Some of this code is similar to Apple's example code "Building a Custom Peer-to-Peer Protocol",
+URL: https://developer.apple.com/documentation/network/building_a_custom_peer-to-peer_protocol
+
+The included LICENSE pertains to Apple's code, which has not been copied verbatim,
+but which is similar enough I felt it necessary to include the LICENSE. 
