@@ -108,6 +108,40 @@
 			<key>uniqueIdentifier</key>
 			<string>1D559F46-4506-468F-BD32-F9816D853494</string>
 		</dict>
+		<key>26C7FC5B-8102-41ED-9641-4719C3C1A5C6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>26C7FC5B-8102-41ED-9641-4719C3C1A5C6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642538833.549582</real>
+			<key>timeStoppedRecording</key>
+			<real>642538842.86444294</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>26C7FC5B-8102-41ED-9641-4719C3C1A5C6</string>
+		</dict>
 		<key>2EEADB12-8840-4B4F-9491-3404C592C1CF</key>
 		<dict>
 			<key>className</key>
@@ -1127,6 +1161,40 @@
 			<string>Build Bonjour1</string>
 			<key>uniqueIdentifier</key>
 			<string>C9770E75-8CE8-4404-827B-35F581CA1902</string>
+		</dict>
+		<key>EFBF6541-A133-469F-8A10-993D2F5BB8DD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EFBF6541-A133-469F-8A10-993D2F5BB8DD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642538772.23815501</real>
+			<key>timeStoppedRecording</key>
+			<real>642538772.28202295</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>EFBF6541-A133-469F-8A10-993D2F5BB8DD</string>
 		</dict>
 		<key>F86F2AA8-2E3F-403F-8B0C-6B91C18801F1</key>
 		<dict>
