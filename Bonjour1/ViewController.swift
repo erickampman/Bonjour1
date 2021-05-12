@@ -12,6 +12,8 @@ class ViewController: NSViewController {
 	
 	override func viewDidLoad() {
 		super.viewDidLoad()
+		
+		browser = Browser(delegate: self)
 		browser.browse()
 		startListening()
 	}
@@ -36,7 +38,7 @@ class ViewController: NSViewController {
 		}
 	}
 
-	let browser = Browser()
+	var browser: Browser!
 	
 	var name = "Default"
 }

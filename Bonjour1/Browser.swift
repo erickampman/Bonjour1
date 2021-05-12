@@ -9,11 +9,16 @@ import Network
 import Foundation
 import os
 
+protocol BrowserDelegate {
+	func needsUpdate()
+}
+
 class Browser: NSObject {
 	
-	override init() {
+	init(delegate: BrowserDelegate) {
 		super.init()
 		
+		self.delegate = delegate
 	}
 
 	func browse() {
@@ -49,6 +54,7 @@ class Browser: NSObject {
 		}
 		
 		browser.browseResultsChangedHandler = { results, changes in
+			self.updateResults(results: results)
 			self.delegate?.needsUpdate()
 		}
 
@@ -74,13 +80,9 @@ class Browser: NSObject {
 	let browserType = "_bonjour1._tcp"
 	let browserDomain = String?.none
 	var name = "My Name"
-	let delegate = BrowserDelegate?.none
+	var delegate = BrowserDelegate?.none
 	
 	var results: [NWBrowser.Result] = [NWBrowser.Result]()
 	
 	let logger = Logger(subsystem: "com.unlikelyware.bonjour1", category: "Browser")
-}
-
-protocol BrowserDelegate {
-	func needsUpdate()
 }
