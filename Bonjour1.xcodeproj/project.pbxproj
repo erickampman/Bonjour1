@@ -14,6 +14,8 @@
 		E4456E41264C1B5A00712D39 /* Browser.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4456E40264C1B5A00712D39 /* Browser.swift */; };
 		E4456E45264C267600712D39 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = E4456E44264C267600712D39 /* LICENSE.txt */; };
 		E4456E47264C268900712D39 /* Notes.txt in Resources */ = {isa = PBXBuildFile; fileRef = E4456E46264C268900712D39 /* Notes.txt */; };
+		E4456E49264C2EFB00712D39 /* Listener.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4456E48264C2EFB00712D39 /* Listener.swift */; };
+		E4456E4B264C375400712D39 /* Connection.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4456E4A264C375400712D39 /* Connection.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		E4456E40264C1B5A00712D39 /* Browser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Browser.swift; sourceTree = "<group>"; };
 		E4456E44264C267600712D39 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		E4456E46264C268900712D39 /* Notes.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = Notes.txt; sourceTree = "<group>"; };
+		E4456E48264C2EFB00712D39 /* Listener.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Listener.swift; sourceTree = "<group>"; };
+		E4456E4A264C375400712D39 /* Connection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Connection.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +68,8 @@
 				E4456E30264C0D2200712D39 /* AppDelegate.swift */,
 				E4456E32264C0D2200712D39 /* ViewController.swift */,
 				E4456E40264C1B5A00712D39 /* Browser.swift */,
+				E4456E48264C2EFB00712D39 /* Listener.swift */,
+				E4456E4A264C375400712D39 /* Connection.swift */,
 				E4456E34264C0D2300712D39 /* Assets.xcassets */,
 				E4456E36264C0D2300712D39 /* Main.storyboard */,
 				E4456E39264C0D2300712D39 /* Info.plist */,
@@ -161,7 +167,9 @@
 			files = (
 				E4456E33264C0D2200712D39 /* ViewController.swift in Sources */,
 				E4456E31264C0D2200712D39 /* AppDelegate.swift in Sources */,
+				E4456E4B264C375400712D39 /* Connection.swift in Sources */,
 				E4456E41264C1B5A00712D39 /* Browser.swift in Sources */,
+				E4456E49264C2EFB00712D39 /* Listener.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

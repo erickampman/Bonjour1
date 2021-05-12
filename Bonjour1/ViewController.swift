@@ -9,9 +9,11 @@ import Cocoa
 
 class ViewController: NSViewController {
 
+	
 	override func viewDidLoad() {
 		super.viewDidLoad()
 		browser.browse()
+		startListening()
 	}
 	
 	override var representedObject: Any? {
@@ -19,11 +21,27 @@ class ViewController: NSViewController {
 		// Update the view, if already loaded.
 		}
 	}
+	
+	func startListening() {
+		if let listener = gListener {
+			// If your app is already listening, just update the name.
+			// FIXME
+		} else {
+			// If your app is not yet listening, start a new listener.
+			gListener = Listener()
+		}
+
+		if let listener = gListener {
+			listener.listen()
+		}
+	}
 
 	let browser = Browser()
+	
+	var name = "Default"
 }
 
-extension ViewController: BrowserDelegate {
+extension ViewController: BrowserDelegate, ConnectionDelegate {
 	func needsUpdate() {
 		view.needsDisplay = true
 	}

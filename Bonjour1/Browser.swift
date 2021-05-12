@@ -78,7 +78,7 @@ class Browser: NSObject {
 	
 	var results: [NWBrowser.Result] = [NWBrowser.Result]()
 	
-	let logger = Logger(subsystem: "com.unlikelyware.bonjour1", category: "Networking")
+	let logger = Logger(subsystem: "com.unlikelyware.bonjour1", category: "Browser")
 }
 
 protocol BrowserDelegate {
