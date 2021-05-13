@@ -17,8 +17,11 @@ class Listener: NSObject {
 	var listener: NWListener?
 	var name = "Bonjour1Test"
 
-	override init() {
+	init(name: String, delegate: ConnectionDelegate) {
 		super.init()
+		
+		self.name = name
+		self.delegate = delegate
 	}
 	
 	func listen() {
@@ -66,6 +69,15 @@ class Listener: NSObject {
 			
 		}
 	}
+	
+	func resetName(_ name: String) {
+		self.name = name
+		if let listener = listener {
+			// Reset the service to advertise.
+			listener.service = NWListener.Service(name: self.name, type: browserType)
+		}
+	}
+
 	weak var delegate: ConnectionDelegate?
 	let logger = Logger(subsystem: "com.unlikelyware.bonjour1", category: "Listener")
 	let browserType = "_bonjour1._tcp"

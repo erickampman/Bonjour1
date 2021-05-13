@@ -6,6 +6,40 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>0B209F4C-7992-4112-9B91-F5CF3C54D27E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0B209F4C-7992-4112-9B91-F5CF3C54D27E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642555320.58619702</real>
+			<key>timeStoppedRecording</key>
+			<real>642555321.83608198</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>0B209F4C-7992-4112-9B91-F5CF3C54D27E</string>
+		</dict>
 		<key>0B46B9D4-74D0-4B99-A1B9-D89994AB7F1A</key>
 		<dict>
 			<key>className</key>
@@ -40,6 +74,40 @@
 			<key>uniqueIdentifier</key>
 			<string>0B46B9D4-74D0-4B99-A1B9-D89994AB7F1A</string>
 		</dict>
+		<key>109F2AA8-0CFA-4ACF-9A68-ADED31B0EC01</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>109F2AA8-0CFA-4ACF-9A68-ADED31B0EC01.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642544893.67888999</real>
+			<key>timeStoppedRecording</key>
+			<real>642544894.16103494</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>109F2AA8-0CFA-4ACF-9A68-ADED31B0EC01</string>
+		</dict>
 		<key>10B9F876-E92C-48C3-923A-9685577A7690</key>
 		<dict>
 			<key>className</key>
@@ -73,6 +141,74 @@
 			<string>Build Bonjour1</string>
 			<key>uniqueIdentifier</key>
 			<string>10B9F876-E92C-48C3-923A-9685577A7690</string>
+		</dict>
+		<key>17EA54A4-4A96-4C71-9551-0A1E8B8A6548</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>17EA54A4-4A96-4C71-9551-0A1E8B8A6548.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642544938.90338504</real>
+			<key>timeStoppedRecording</key>
+			<real>642544939.17434597</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>17EA54A4-4A96-4C71-9551-0A1E8B8A6548</string>
+		</dict>
+		<key>17F51D20-784A-4104-9BB2-69FE64087310</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>17F51D20-784A-4104-9BB2-69FE64087310.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642544999.587677</real>
+			<key>timeStoppedRecording</key>
+			<real>642545002.03002298</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>17F51D20-784A-4104-9BB2-69FE64087310</string>
 		</dict>
 		<key>1D559F46-4506-468F-BD32-F9816D853494</key>
 		<dict>
@@ -244,6 +380,40 @@
 			<key>uniqueIdentifier</key>
 			<string>3955A173-EC08-4DA5-ACBA-655B84B92D76</string>
 		</dict>
+		<key>3B1A2B0C-B138-40B1-B374-F974E8DA5520</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3B1A2B0C-B138-40B1-B374-F974E8DA5520.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642556582.46429503</real>
+			<key>timeStoppedRecording</key>
+			<real>642556583.42092597</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>3B1A2B0C-B138-40B1-B374-F974E8DA5520</string>
+		</dict>
 		<key>40F273ED-F454-47DD-9114-0FA72832E4B9</key>
 		<dict>
 			<key>className</key>
@@ -277,6 +447,74 @@
 			<string>Build Bonjour1</string>
 			<key>uniqueIdentifier</key>
 			<string>40F273ED-F454-47DD-9114-0FA72832E4B9</string>
+		</dict>
+		<key>42050296-68D4-419C-A1F3-5381FF09AD24</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>42050296-68D4-419C-A1F3-5381FF09AD24.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642554996.32702506</real>
+			<key>timeStoppedRecording</key>
+			<real>642554997.49106002</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>42050296-68D4-419C-A1F3-5381FF09AD24</string>
+		</dict>
+		<key>478E1125-919B-464F-8FA4-CE0D94BE9E9B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>478E1125-919B-464F-8FA4-CE0D94BE9E9B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642555472.56648695</real>
+			<key>timeStoppedRecording</key>
+			<real>642555473.83237398</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>478E1125-919B-464F-8FA4-CE0D94BE9E9B</string>
 		</dict>
 		<key>4B2A045D-4E6A-4A8E-BCF7-3E451D5A2EDE</key>
 		<dict>
@@ -312,6 +550,40 @@
 			<key>uniqueIdentifier</key>
 			<string>4B2A045D-4E6A-4A8E-BCF7-3E451D5A2EDE</string>
 		</dict>
+		<key>4EB74AB4-9E8D-409E-AF66-884DDAA28BF8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4EB74AB4-9E8D-409E-AF66-884DDAA28BF8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642561011.76881897</real>
+			<key>timeStoppedRecording</key>
+			<real>642561012.25676</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>4EB74AB4-9E8D-409E-AF66-884DDAA28BF8</string>
+		</dict>
 		<key>510F8B3D-E3B1-4DCA-87CF-61308D6314CD</key>
 		<dict>
 			<key>className</key>
@@ -345,6 +617,40 @@
 			<string>Build Bonjour1</string>
 			<key>uniqueIdentifier</key>
 			<string>510F8B3D-E3B1-4DCA-87CF-61308D6314CD</string>
+		</dict>
+		<key>55119597-4047-43DF-AD83-571BA1325C8B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>55119597-4047-43DF-AD83-571BA1325C8B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642539830.30552006</real>
+			<key>timeStoppedRecording</key>
+			<real>642539830.54073596</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>55119597-4047-43DF-AD83-571BA1325C8B</string>
 		</dict>
 		<key>5625AC93-47D5-43E8-B011-5E874494B49A</key>
 		<dict>
@@ -413,6 +719,176 @@
 			<string>Build Bonjour1</string>
 			<key>uniqueIdentifier</key>
 			<string>57E9B651-D36E-4B67-B820-BB4F7C149C29</string>
+		</dict>
+		<key>583F8C45-8843-4404-B912-51734B772316</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>583F8C45-8843-4404-B912-51734B772316.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642607096.120538</real>
+			<key>timeStoppedRecording</key>
+			<real>642607096.60767698</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>583F8C45-8843-4404-B912-51734B772316</string>
+		</dict>
+		<key>599D2197-908D-49BF-B040-8F648CB72E74</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>599D2197-908D-49BF-B040-8F648CB72E74.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642556475.41860199</real>
+			<key>timeStoppedRecording</key>
+			<real>642556476.75138795</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>599D2197-908D-49BF-B040-8F648CB72E74</string>
+		</dict>
+		<key>61BC7935-9130-4E9C-B677-27B66893FF74</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>61BC7935-9130-4E9C-B677-27B66893FF74.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642556173.84043097</real>
+			<key>timeStoppedRecording</key>
+			<real>642556174.15948105</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>61BC7935-9130-4E9C-B677-27B66893FF74</string>
+		</dict>
+		<key>64731637-7A6B-4FCB-9B9E-48E15C915CE1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>64731637-7A6B-4FCB-9B9E-48E15C915CE1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642559031.03359497</real>
+			<key>timeStoppedRecording</key>
+			<real>642559031.09037995</real>
+			<key>title</key>
+			<string>Clean Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>64731637-7A6B-4FCB-9B9E-48E15C915CE1</string>
+		</dict>
+		<key>68992612-F448-4C02-96EC-3D005C9162FF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>68992612-F448-4C02-96EC-3D005C9162FF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642556245.94308901</real>
+			<key>timeStoppedRecording</key>
+			<real>642556246.30206895</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>68992612-F448-4C02-96EC-3D005C9162FF</string>
 		</dict>
 		<key>73FE827F-237D-4CD7-8CB1-BDDF694672B3</key>
 		<dict>
@@ -822,6 +1298,40 @@
 			<key>uniqueIdentifier</key>
 			<string>A3514E3F-67AB-46B4-9E1E-2089B58C0551</string>
 		</dict>
+		<key>A54F75F7-B16F-496E-9F74-C37842A16BA2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A54F75F7-B16F-496E-9F74-C37842A16BA2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642607215.97384501</real>
+			<key>timeStoppedRecording</key>
+			<real>642607219.57709205</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>A54F75F7-B16F-496E-9F74-C37842A16BA2</string>
+		</dict>
 		<key>A7322F04-29D6-4293-B88B-760E368E81AB</key>
 		<dict>
 			<key>className</key>
@@ -924,6 +1434,40 @@
 			<key>uniqueIdentifier</key>
 			<string>AB34704D-A638-46A1-BEA5-2D923328A121</string>
 		</dict>
+		<key>B3966167-820C-4211-9C1B-E7F5EFC1B864</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B3966167-820C-4211-9C1B-E7F5EFC1B864.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642607402.24751997</real>
+			<key>timeStoppedRecording</key>
+			<real>642607403.97369695</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>B3966167-820C-4211-9C1B-E7F5EFC1B864</string>
+		</dict>
 		<key>B68C013A-4CAB-4C81-B3CD-C154262314EA</key>
 		<dict>
 			<key>className</key>
@@ -991,6 +1535,74 @@
 			<string>Build Bonjour1</string>
 			<key>uniqueIdentifier</key>
 			<string>B87E3D04-B0EB-497B-A9A8-0B2C495E7376</string>
+		</dict>
+		<key>BCFD87D8-24D0-4D1A-876D-013F6CFE7B39</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BCFD87D8-24D0-4D1A-876D-013F6CFE7B39.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642607330.93617499</real>
+			<key>timeStoppedRecording</key>
+			<real>642607330.980106</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>BCFD87D8-24D0-4D1A-876D-013F6CFE7B39</string>
+		</dict>
+		<key>BF99BA4D-3EB3-44F2-9A75-E9E7EE269739</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BF99BA4D-3EB3-44F2-9A75-E9E7EE269739.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642555135.61119998</real>
+			<key>timeStoppedRecording</key>
+			<real>642555136.80779696</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>BF99BA4D-3EB3-44F2-9A75-E9E7EE269739</string>
 		</dict>
 		<key>C3EF7652-E07C-4D41-84CD-7E66ACE3B9B1</key>
 		<dict>
@@ -1162,6 +1774,108 @@
 			<key>uniqueIdentifier</key>
 			<string>C9770E75-8CE8-4404-827B-35F581CA1902</string>
 		</dict>
+		<key>CA67DC02-2B5B-40A3-AB4D-7FFF76ABC614</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CA67DC02-2B5B-40A3-AB4D-7FFF76ABC614.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642555368.96649694</real>
+			<key>timeStoppedRecording</key>
+			<real>642555370.285375</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>CA67DC02-2B5B-40A3-AB4D-7FFF76ABC614</string>
+		</dict>
+		<key>CBCF8ADE-0FE6-46E7-8F46-82B9A66C2F23</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CBCF8ADE-0FE6-46E7-8F46-82B9A66C2F23.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642559032.47640502</real>
+			<key>timeStoppedRecording</key>
+			<real>642559035.58043802</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>CBCF8ADE-0FE6-46E7-8F46-82B9A66C2F23</string>
+		</dict>
+		<key>D5340696-0C26-4DEA-8789-3885ABA8093C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D5340696-0C26-4DEA-8789-3885ABA8093C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642555290.82016301</real>
+			<key>timeStoppedRecording</key>
+			<real>642555291.98550498</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>D5340696-0C26-4DEA-8789-3885ABA8093C</string>
+		</dict>
 		<key>EFBF6541-A133-469F-8A10-993D2F5BB8DD</key>
 		<dict>
 			<key>className</key>
@@ -1230,6 +1944,40 @@
 			<key>uniqueIdentifier</key>
 			<string>F86F2AA8-2E3F-403F-8B0C-6B91C18801F1</string>
 		</dict>
+		<key>F8CFB780-4F66-4DAE-8B84-0757D88EADB4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F8CFB780-4F66-4DAE-8B84-0757D88EADB4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642538898.61314499</real>
+			<key>timeStoppedRecording</key>
+			<real>642538898.65262604</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>F8CFB780-4F66-4DAE-8B84-0757D88EADB4</string>
+		</dict>
 		<key>FB25F775-59B3-4551-9E1F-E3DE9F913F24</key>
 		<dict>
 			<key>className</key>
@@ -1263,6 +2011,40 @@
 			<string>Build Bonjour1</string>
 			<key>uniqueIdentifier</key>
 			<string>FB25F775-59B3-4551-9E1F-E3DE9F913F24</string>
+		</dict>
+		<key>FFBDB8FC-034B-47B6-B801-127DF6A817BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FFBDB8FC-034B-47B6-B801-127DF6A817BE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642607548.96034396</real>
+			<key>timeStoppedRecording</key>
+			<real>642607550.23791695</real>
+			<key>title</key>
+			<string>Build Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>FFBDB8FC-034B-47B6-B801-127DF6A817BE</string>
 		</dict>
 	</dict>
 </dict>

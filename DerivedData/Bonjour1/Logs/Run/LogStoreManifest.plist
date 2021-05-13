@@ -40,6 +40,40 @@
 			<key>uniqueIdentifier</key>
 			<string>09E8A703-E3CA-41A7-A7C6-35D4294C9880</string>
 		</dict>
+		<key>171B7DD5-638C-4A01-B9A9-4C0D5089573A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>171B7DD5-638C-4A01-B9A9-4C0D5089573A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642554997.49550295</real>
+			<key>timeStoppedRecording</key>
+			<real>642555135.84923506</real>
+			<key>title</key>
+			<string>Run Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>171B7DD5-638C-4A01-B9A9-4C0D5089573A</string>
+		</dict>
 		<key>1A1FB1EC-5681-4962-8193-FB3AE74ECFD5</key>
 		<dict>
 			<key>className</key>
@@ -73,6 +107,74 @@
 			<string>Run Bonjour1</string>
 			<key>uniqueIdentifier</key>
 			<string>1A1FB1EC-5681-4962-8193-FB3AE74ECFD5</string>
+		</dict>
+		<key>1F4D9ED1-38A1-441F-98E1-AF25855077B2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1F4D9ED1-38A1-441F-98E1-AF25855077B2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642556174.16253304</real>
+			<key>timeStoppedRecording</key>
+			<real>642556246.18234396</real>
+			<key>title</key>
+			<string>Run Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>1F4D9ED1-38A1-441F-98E1-AF25855077B2</string>
+		</dict>
+		<key>22043E67-4BAE-4093-A450-2D1963E1F259</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>22043E67-4BAE-4093-A450-2D1963E1F259.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642555136.81121898</real>
+			<key>timeStoppedRecording</key>
+			<real>642555320.82732105</real>
+			<key>title</key>
+			<string>Run Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>22043E67-4BAE-4093-A450-2D1963E1F259</string>
 		</dict>
 		<key>256B72B0-D497-4165-AB6E-5C11163DA208</key>
 		<dict>
@@ -142,6 +244,108 @@
 			<key>uniqueIdentifier</key>
 			<string>3BDB0BC7-AA7B-4177-A692-2B5D020CA0A7</string>
 		</dict>
+		<key>4187C7DE-A358-4449-B39B-E0B20998B278</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4187C7DE-A358-4449-B39B-E0B20998B278.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642538898.65555894</real>
+			<key>timeStoppedRecording</key>
+			<real>642539108.67332006</real>
+			<key>title</key>
+			<string>Run Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>4187C7DE-A358-4449-B39B-E0B20998B278</string>
+		</dict>
+		<key>440D35A1-578B-4ECB-A741-9042AD0592FD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>440D35A1-578B-4ECB-A741-9042AD0592FD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642607550.24142504</real>
+			<key>timeStoppedRecording</key>
+			<real>642607593.22815299</real>
+			<key>title</key>
+			<string>Run Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>440D35A1-578B-4ECB-A741-9042AD0592FD</string>
+		</dict>
+		<key>5B752550-FD79-43DF-B863-2416338B5240</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5B752550-FD79-43DF-B863-2416338B5240.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642556583.423684</real>
+			<key>timeStoppedRecording</key>
+			<real>642556597.38142395</real>
+			<key>title</key>
+			<string>Run Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>5B752550-FD79-43DF-B863-2416338B5240</string>
+		</dict>
 		<key>7B7BCB94-79A2-4FE5-AFA9-BDD582DC6F92</key>
 		<dict>
 			<key>className</key>
@@ -175,6 +379,210 @@
 			<string>Run Bonjour1</string>
 			<key>uniqueIdentifier</key>
 			<string>7B7BCB94-79A2-4FE5-AFA9-BDD582DC6F92</string>
+		</dict>
+		<key>7C9BCD6D-03C5-43D0-B004-75BA1B67397B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7C9BCD6D-03C5-43D0-B004-75BA1B67397B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642555473.83562005</real>
+			<key>timeStoppedRecording</key>
+			<real>642556174.01777601</real>
+			<key>title</key>
+			<string>Run Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>7C9BCD6D-03C5-43D0-B004-75BA1B67397B</string>
+		</dict>
+		<key>7CA2D532-2C47-4E42-9AE0-24FD4C3E8635</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7CA2D532-2C47-4E42-9AE0-24FD4C3E8635.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642559035.58300304</real>
+			<key>timeStoppedRecording</key>
+			<real>642559271.17728198</real>
+			<key>title</key>
+			<string>Run Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>7CA2D532-2C47-4E42-9AE0-24FD4C3E8635</string>
+		</dict>
+		<key>8FAC44B2-97F8-45F6-B6D8-A8ACDA28135B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8FAC44B2-97F8-45F6-B6D8-A8ACDA28135B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642555321.83901298</real>
+			<key>timeStoppedRecording</key>
+			<real>642555369.22372401</real>
+			<key>title</key>
+			<string>Run Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>8FAC44B2-97F8-45F6-B6D8-A8ACDA28135B</string>
+		</dict>
+		<key>900E6974-7A95-4854-821E-924F78B1D78A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>900E6974-7A95-4854-821E-924F78B1D78A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642607330.98355997</real>
+			<key>timeStoppedRecording</key>
+			<real>642607359.60456896</real>
+			<key>title</key>
+			<string>Run Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>900E6974-7A95-4854-821E-924F78B1D78A</string>
+		</dict>
+		<key>9D8C0F65-5933-4692-8B8E-D417A9B8F95F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9D8C0F65-5933-4692-8B8E-D417A9B8F95F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642556476.75425696</real>
+			<key>timeStoppedRecording</key>
+			<real>642556582.70455003</real>
+			<key>title</key>
+			<string>Run Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>9D8C0F65-5933-4692-8B8E-D417A9B8F95F</string>
+		</dict>
+		<key>AC766FCB-D4C0-4B37-9F68-5DCF2FDD015E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AC766FCB-D4C0-4B37-9F68-5DCF2FDD015E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642607403.97637904</real>
+			<key>timeStoppedRecording</key>
+			<real>642607549.20371997</real>
+			<key>title</key>
+			<string>Run Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>AC766FCB-D4C0-4B37-9F68-5DCF2FDD015E</string>
 		</dict>
 		<key>B8913E2F-AD04-42C0-82E3-FC4FF3E5D798</key>
 		<dict>
@@ -311,6 +719,74 @@
 			<string>Run Bonjour1</string>
 			<key>uniqueIdentifier</key>
 			<string>F2A021FC-4C62-411E-A8A1-9CF242C6BE08</string>
+		</dict>
+		<key>FB71070A-6D9B-40A1-86F3-32BB34A783BF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FB71070A-6D9B-40A1-86F3-32BB34A783BF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642556246.30512798</real>
+			<key>timeStoppedRecording</key>
+			<real>642556263.91557896</real>
+			<key>title</key>
+			<string>Run Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>FB71070A-6D9B-40A1-86F3-32BB34A783BF</string>
+		</dict>
+		<key>FF50ED67-E99B-401B-BB59-31F5E2BA455F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FF50ED67-E99B-401B-BB59-31F5E2BA455F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bonjour1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bonjour1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Bonjour1</string>
+			<key>timeStartedRecording</key>
+			<real>642555370.28832102</real>
+			<key>timeStoppedRecording</key>
+			<real>642555472.80460095</real>
+			<key>title</key>
+			<string>Run Bonjour1</string>
+			<key>uniqueIdentifier</key>
+			<string>FF50ED67-E99B-401B-BB59-31F5E2BA455F</string>
 		</dict>
 	</dict>
 </dict>
